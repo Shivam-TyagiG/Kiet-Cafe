@@ -19,6 +19,7 @@
 ![image](https://github.com/Shivam-TyagiG/Kiet-Cafe/assets/117835604/d9045286-95b8-45c9-b67f-e17c7c23a170)
 
 # Payment Gateway Page
-![image](https://github.com/Shivam-TyagiG/Kiet-Cafe/assets/117835604/86b70992-9ca2-4398-a111-f587d1e3b47d)
+![image](https://github.com/Shivam-TyagiG/Kiet-Cafe/assets/117835604/7145c7cd-128d-4c5d-ba2c-9440fef24ecd)
+
 
 
